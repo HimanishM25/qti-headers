@@ -10,7 +10,7 @@
 
 bootstrap_go_package {
     name: "soong-qti_kernel_headers_defaults",
-    pkgPath: "kernel/sony/qti-headers",
+    pkgPath: "kernel/xiaomi/qti-headers",
     deps: [
         "blueprint",
         "blueprint-pathtools",
